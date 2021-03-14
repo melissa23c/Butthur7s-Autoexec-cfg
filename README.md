@@ -12,6 +12,12 @@ And you will also find very precise guides and informative posts that go in dept
 
 I have also uploaded my grenade practice cfg, remember to change tick rate in the console if you are going to practice for 128 tick servers.
 
+
+
+Launch options: +exec autoexec -novid -freq 75 -console
+
+
+
 I hope you find something usefull or a bit of inspiration while looking through it.
 
 Best of wishes,
