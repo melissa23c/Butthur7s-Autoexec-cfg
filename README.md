@@ -10,6 +10,8 @@ The sound settings are optimised for 4:3 Stretched, and if you use it with 5:4, 
 If you don't know what the commands do, i suggest that you check by /r/CounterStrikeBinds/, it's a good community for getting help with setting up and adjusting your autoexec.
 And you will also find very precise guides and informative posts that go in depth with the different commands, binds, and more.
 
+I have also uploaded my grenade practice cfg, remember to change tick rate in the console if you are going to practice for 128 tick servers.
+
 I hope you find something usefull or a bit of inspiration while looking through it.
 
 Best of wishes,
