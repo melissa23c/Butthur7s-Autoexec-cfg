@@ -1,0 +1,1 @@
++exec autoexec -novid -freq 170 -refresh 170 -console
