@@ -1,3 +1,3 @@
 // 𝐁𝐮𝐭𝐭𝐡𝐮𝐫𝐭'𝐬 Launch Options
 
-+exec autoexec -novid -freq 170 -refresh 170 -console
++exec autoexec -novid -nojoy -freq 170 -refresh 170 -console -high -threads 11 +cl_forcepreload 1 -tickrate 128
